@@ -9,3 +9,5 @@ Completed in:
 * C
 
 More to come
+
+* RC4 in python
